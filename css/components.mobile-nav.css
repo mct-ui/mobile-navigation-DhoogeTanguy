@@ -10,6 +10,7 @@
     right: 0;
     left: 0;
     height: 100vh;
+    display: none;
 }
 
 .has-mobile-nav .c-mobile-nav {
@@ -28,6 +29,7 @@
 }
 
 .has-mobile-nav .c-mobile-nav__bg {
+    display: block;
 
 }
 
